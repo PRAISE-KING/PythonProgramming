@@ -1,8 +1,11 @@
 # Object Oriented Programming - Python
-# is a paradym(style) of programming , where everything is treated as an object
+# is a paradigm(style) of programming , where everything is treated as an object
 
-# A class - a blueprint of an object
-# An object - instance of a class
+# A class - a blueprint of an object . /collection of objects
+# An object - instance of a class .an entity that has the same state and behaviour associated with it
+# attributes -
+
+
 
 class Iphone_x():
     brand = "Apple"
